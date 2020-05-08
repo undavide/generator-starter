@@ -1,0 +1,18 @@
+{
+  "name": "generator-starter",
+  "version": "1.0.0",
+  "description": "Blank Adobe Generator Plugin",
+  "main": "main.js",
+  "generator-core-version": "~3",
+  "menu": {
+    "id": "generator-starter",
+    "label": "Generator Plugin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davide Barranca",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
